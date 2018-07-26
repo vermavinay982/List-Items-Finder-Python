@@ -1,0 +1,2 @@
+# List-Items-Finder-Python
+Just type the thing you wanted to know about in a list and get a clear article in format of txt file and save time . This project is just made for educational purpose only it can be used by students that find web browsing a boring work and dont want to spend much time in browsing  or if someone is creating presentation and quickly want data for that. It has multiple uses if used in proper manner
